@@ -12,7 +12,7 @@ relatedTangles:
   - tangle: tangle 1
   - tangle: tangle 222
 ---
-![flavor wheel](/img/alex-kotliarskyi-361081-1-.jpg)
+![coffee](/img/coffee-gear.png)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
