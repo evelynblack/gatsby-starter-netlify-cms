@@ -8,7 +8,9 @@ description: >-
 tags:
   - flavor
   - tasting
-tangle: tangle 1
+relatedTangles:
+  - tangle: tangle 1
+  - tangle: tangle 222
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
